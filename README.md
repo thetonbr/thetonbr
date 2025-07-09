@@ -78,13 +78,14 @@ timeline
 - 🦉 Teaching (Data Science and Compilers)
 
 ## 🌟 Featured Projects
-
 <div align="center">
-  <a href="https://github.com/thetonbr/project1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thetonbr&repo=project1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/thetonbr/project2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thetonbr&repo=project2&theme=tokyonight" />
+  <p><em>🚧 Currently migrating and open-sourcing several enterprise-grade libraries and packages.</em></p>
+  <p><em>Most of my contributions have been in private repositories for banking and fintech companies.</em></p>
+  <p><strong>Stay tuned for upcoming releases in fraud detection, payment processing, and financial APIs! 🚀</strong></p>
+</div>
+<div align="center">
+  <a href="https://github.com/thetonbr/breezegate">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thetonbr&repo=breezegate&theme=tokyonight" />
   </a>
 </div>
 
