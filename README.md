@@ -17,9 +17,7 @@ I'm a passionate **Solutions Architect** and **Senior Software Engineer** with o
 ```mermaid
 timeline
     title My Career Evolution
-    2004 : System Analyst Junior
-          : LogoCenter
-    2007 : Software Developer
+    2004 : Software Developer
           : TOTVS
     2008 : IT Analyst
           : City Board of Education
