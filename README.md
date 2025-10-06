@@ -17,8 +17,10 @@ I'm a passionate **Solutions Architect** and **Senior Software Engineer** with o
 ```mermaid
 timeline
     title My Career Evolution
-    2004 : Software Developer
-          : TOTVS
+    2004 : System Analyst
+          : Cadmus Sistemas
+    2006 : Software Developer
+          : Logocenter -> TOTVS
     2008 : IT Analyst
           : City Board of Education
     2010 : Software Engineer / Researcher / Tech Lead
